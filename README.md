@@ -6,4 +6,4 @@ good luck
 
 Note:
 the project is not complete yet so i'm open for any suggestion about that
-](https://github.com/mastodon/mastodon.git)
+
